@@ -39,8 +39,7 @@ Feel free to get in touch with me for collaboration opportunities or just a chat
 - Potato:   <strong> </strong>
   ```
   solidwinner
- ```
- ```
+  ```
 ---
 
 🌟 **Currently working on**:
