@@ -28,10 +28,19 @@ I'm currently learning **TypeScript** 🖥️ and have a strong interest in **OS
 Feel free to get in touch with me for collaboration opportunities or just a chat about technology!
 
 📫 **Contact me**:
-- Email: [sw.gov@tutamail.com]
-- Telegram: [swdotgov]
-- Potato: [solidwinner]
-
+- Email:   <strong> </strong>
+  ```
+  sw.gov@tutamail.com
+  ```
+- Telegram:   <strong> </strong>
+  ```
+  swdotgov
+  ```
+- Potato:   <strong> </strong>
+  ```
+  solidwinner
+ ```
+ ```
 ---
 
 🌟 **Currently working on**:
