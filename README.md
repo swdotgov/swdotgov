@@ -28,11 +28,11 @@ I'm currently learning **TypeScript** 🖥️ and have a strong interest in **OS
 Feel free to get in touch with me for collaboration opportunities or just a chat about technology!
 
 📫 **Contact me**:
-- Email:   <strong> </strong>
+- 📧 Email:   <strong> </strong>
   ```
   sw.gov@tutamail.com
   ```
-- Telegram:   <strong> </strong>
+- 📱✈️ Telegram:   <strong> </strong>
   ```
   swdotgov
   ```
