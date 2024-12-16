@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [solwin]!
+# 👋 Hey there, I'm solwin!
 
 ## 👨‍💻 About Me
 I'm currently learning **TypeScript** 🖥️ and have a strong interest in **OSINT** 🕵️‍♂️ and **Malware Development** 💻💥. My goal is to dive deeper into the world of software security, uncover hidden information, and explore the many facets of cyber threats. I'm constantly expanding my skills and knowledge in this exciting field.
