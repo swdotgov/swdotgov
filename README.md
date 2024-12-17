@@ -7,7 +7,6 @@ I'm currently diving into **Prompt Engineering** 🖥️ and have a strong inter
 ### 🔧 Skills & Expertise:
 
 - **Prompt Engineering** 📝 (Crafting effective AI-driven solutions)
-- 
 - **OSINT (Open Source Intelligence)** 🌐 (Exploring the web for valuable information)
 - **Malware Development** 🦠 (Creating and analyzing malicious software)
 - **Cybersecurity** 🔒 (Security solutions for a safer digital world)
@@ -20,7 +19,6 @@ I'm currently diving into **Prompt Engineering** 🖥️ and have a strong inter
 - **Ethical Hacking** 🛠️
 - **Researching Emerging Threats** 🔍
 - **Software Development & Innovation** 💻
-- **AI and Natural Language Processing** 🧠
 
 ### ✨ Fun Facts:
 
