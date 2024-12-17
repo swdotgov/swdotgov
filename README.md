@@ -10,7 +10,6 @@ I'm currently diving into **Prompt Engineering** 🖥️ and have a strong inter
 - **OSINT (Open Source Intelligence)** 🌐 (Exploring the web for valuable information)
 - **Malware Development** 🦠 (Creating and analyzing malicious software)
 - **Cybersecurity** 🔒 (Security solutions for a safer digital world)
-- **Data Analysis** 📊 (Extracting meaningful insights from data)
 - **Automation** 🤖 (Optimizing tasks with scripts)
 
 ### 🌍 Interests:
